@@ -8,7 +8,7 @@ const HomeScreen = () => {
       <View>
         <Image 
           style={styles.image}  // Add style here
-          source={require('../assets/pneuspeedy.png')}
+          source={require('../assets/pneuspeedy-removebg-preview.png')}
          
         />
       </View>
